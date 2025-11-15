@@ -10,8 +10,9 @@ Hi, its **SamosaCode** 👾, a game development studio passionate about crafting
 
 ---
 
-## 🌱 Current Projects
-- **Contributions:** [Check my repos](https://github.com/SamosaCode)  
+## 🌱 Projects
+- **Contributions:** [Check my repos](https://github.com/SamosaCode)
+- **Itch.io:** [check my itch.io page](https://samosacode.itch.io/)
   
 ---
 
