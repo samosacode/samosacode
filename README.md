@@ -1,12 +1,12 @@
-# Hi there, I'm SamosaCode 👋
+# Hi there, It's SamosaCode 👋
 
-Hi, I’m **SamosaCode** 👾, a game developer passionate about crafting unique and engaging experiences. I enjoy experimenting with game mechanics, exploring different art styles, and building worlds that feel alive and meaningful. My projects range from small experimental prototypes to more ambitious games, and I’m always learning new tools and techniques to push my work further. I believe in creating games that challenge expectations, spark curiosity, and leave a lasting impression on players.
+Hi, its **SamosaCode** 👾, a game development studio passionate about crafting unique and engaging experiences. We enjoy experimenting with game mechanics, exploring different art styles, and building worlds that feel alive and meaningful. Our projects range from small experimental prototypes to more ambitious games, and we are always learning new tools and techniques to push our work further. We believe in creating games that challenge expectations, spark curiosity, and leave a lasting impression on players.
 
 ---
 
-## 🚀 About Me
-- 💻 Software Developer
-- 👾 Game Developer
+## 🚀 About Us
+- 💻 Software Development 
+- 👾 Game Development 
 
 ---
 
@@ -15,7 +15,7 @@ Hi, I’m **SamosaCode** 👾, a game developer passionate about crafting unique
   
 ---
 
-## 📫 How to Reach Me
+## 📫 How to Reach Us
 - Email: samosacode01@gmail.com
 
 ---
