@@ -11,8 +11,8 @@ Hi, its **SamosaCode** 👾, a game development studio passionate about crafting
 ---
 
 ## 🌱 Projects
-- **Contributions:** [Check my repos](https://github.com/SamosaCode)
-- **Itch.io:** [check my itch.io page](https://samosacode.itch.io/)
+- **Contributions:** [Check out repos](https://github.com/SamosaCode)
+- **Itch.io:** [check our itch.io page](https://samosacode.itch.io/)
   
 ---
 
